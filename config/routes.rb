@@ -1,6 +1,12 @@
 Blog::Application.routes.draw do
 
    resources :admin
+   resources :about
+   resources :blog
+   resources :contact
+   resources :portfolio
+   resources :portfoliosingle
+   resources :pt
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

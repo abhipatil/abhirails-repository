@@ -91,7 +91,7 @@ hr{
 		margin-top:20px;}
 
 #logo{
-		background:url(../images/logo.png) no-repeat left;
+		background:url(assets/logo.png) no-repeat left;
 		width:144px;
 		float:left;
 		height:16px;
@@ -405,7 +405,7 @@ ul#q_nav li a.active{
 ---------------------------------------------------------*/	
 
 .divider{
-		background:url(../images/divider.png) no-repeat;
+		background:url(assets/divider.png) no-repeat;
 		width:940px;
 		height:16px;
 		margin:52px 0px 52px 0px;
@@ -539,7 +539,7 @@ a.over_image {
 
 
 .buy_button{
-		background:url(../images/buy_button.png) no-repeat;
+		background:url(assets/buy_button.png) no-repeat;
 		width:240px;
 		height:82px;
 		float:right;}
@@ -645,7 +645,7 @@ a.over_image {
 		width:93px;
 		height:34px;
 		float:left;
-		background:url(../images/send_btn.png) no-repeat;
+		background:url(assets/send_btn.png) no-repeat;
 		line-height:34px;
 		color:#FFF;
 		text-align:center;
@@ -739,7 +739,7 @@ a.over_image {
 		
 
 #footer input{
-		background:url(../images/search_field.png) no-repeat;
+		background:url(assets/search_field.png) no-repeat;
 		width:198px;
 		height:25px;
 		text-indent:8px;
